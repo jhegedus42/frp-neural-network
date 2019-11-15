@@ -1,6 +1,6 @@
 # fpr-neural-network
 
-Goal is : use [Sodium FRP](http://sodium.nz/) to implement and train neural networks.
+Goal is : use [Sodium FRP](http://sodium.nz/) and/or [Monix](https://monix.io/docs/3x/) to implement and train neural networks.
 
 Why ?
 
