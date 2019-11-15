@@ -18,7 +18,9 @@ Execution and training of the neural network would be carried out by either [Sod
 
 Sodium makes it easier to reason about the executed algorithm because it is strictly FRP - so each learning step is a single transactional unit, however Sodium is only single threaded. 
 
-Monix does not have the transactional guarantees but allows the training to be scaled up massively in the cloud - using event streams for distributing the calculation workload horizontally - this could be a game changer for large datasets and complex networks. Potentially, an event stream based, reactive, description and implementation of neural networks, might bring something new to the table that no other neural network implementation can offer yet: using functional programming for describing neural networks and their training algorithms and massive parallelism via distributed computing in the cloud.
+Monix does not have the transactional guarantees but allows the training to be scaled up massively in the cloud - using event streams for distributing the calculation workload horizontally - this could be a game changer for large datasets and complex networks. 
+
+Potentially, an event stream based, reactive, description and implementation of neural networks, might bring something new to the table that no other neural network implementation can offer yet: using functional programming for describing neural networks and their training algorithms and massive parallelism via distributed computing in the cloud.
 
 
 
