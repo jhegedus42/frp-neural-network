@@ -10,7 +10,7 @@ however it is purely functional and networks can be described using very high le
 This would hopefully make it easier to implement more sophisticated neural networks and training
 algorithms.
 
-Currently neural networks are being implemented using imparative programming paradigm. The goal of
+Currently, neural networks are being implemented using imparative programming paradigm. The goal of
 this library is to make it possible to implement neural networks and their training algorithms
 using functional programming in which the network architecture and training algorithm can be described.
 
