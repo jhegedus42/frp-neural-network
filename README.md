@@ -1,6 +1,6 @@
 # fpr-neural-network
 
-Goal is : make it possible to use [Sodium FRP](http://sodium.nz/) and/or [Monix](https://monix.io/docs/3x/) to specify a (potentially complex) neural network and training algorithm by using functional programming.
+Goal is : make it possible to use [Sodium FRP](http://sodium.nz/) and/or [Monix](https://monix.io/docs/3x/) to specify a (potentially complex) neural network and training algorithms by using functional programming.
 
 Why ?
 
